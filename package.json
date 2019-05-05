@@ -1,0 +1,12 @@
+{
+  "name": "video-robot-maker",
+  "version": "1.0.0",
+  "description": "A robot that make auto to make a videos",
+  "main": "index.js",
+  "repository": "git@github.com:tenlisboa/video-robot-maker.git",
+  "author": "Gabriel Bento Lisboa",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
