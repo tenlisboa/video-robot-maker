@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:tenlisboa/video-robot-maker.git",
   "author": "Gabriel Bento Lisboa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
